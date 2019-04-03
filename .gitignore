@@ -1,0 +1,6 @@
+# for osx
+.DS_Store
+
+# ignore directory and contents
+/__pycache__
+/venv

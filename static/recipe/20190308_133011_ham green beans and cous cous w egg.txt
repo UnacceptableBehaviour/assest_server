@@ -1,0 +1,67 @@
+------------------ for the light apricot cous cous (4)
+220g	cous cous
+450g	chicken stock
+20g		mange tout
+20g		spring onions
+15g		dried apricots	
+20g		dried cranberries
+10g		red pepper
+15g		butter
+30g		spinach
+10g		red onion
+15g		flaked almonds
+													Total (760g) 
+
+------------------ for the ham green beans and cous cous w egg (1)
+85g		light apricot cous cous								# see above
+150g		green beans										# trimmed & boiled 7m
+15g		teriyake sauce										#
+50g		red onion											# dry fried just to take the edge off
+8g		soy sauce											# to season onion
+75g		cooked ham trimmings lidl							# added to onion to warm through
+55g		eggs												# just cooked, quartered
+													Total (370g)
+
+
+------------------ for the nutrition information ham green beans and cous cous w egg (per 100g)
+energy              	       108
+fat                 	      3.23
+saturates           	      1.12
+mono-unsaturates    	      0.79
+poly-unsaturates    	      0.38
+omega_3_oil         	       0.0
+carbohydrates       	     10.96
+sugars              	      4.58
+fibre               	       2.4
+starch              	      0.23
+protein             	      7.61
+salt                	      1.09
+alcohol             	       0.0
+                                                Total (100g)
+
+- - - - - nutrition info breakdown by ingredient per 100g - - - - - - - M3
+NUT_INFO_FOR: ham green beans and cous cous w egg <
+ingredient                 %   energy    fat       saturates mono-unsa poly-unsa omega_3_o carbohydr sugars    fibre     starch    protein   salt      alcohol  
+green beans             34.25  12.67     0.17      0.03      -         -         -         1.37      1.03      1.4       -         0.72      -         -        
+light apricot cous cous 19.41  29.89     0.61      0.26      0.2       0.08      -         5.13      0.57      0.42      0.05      0.89      0.11      -        
+cooked ham trimmings li 17.12  18.83     0.74      0.26      -         -         -         0.07      0.03      -         -         2.93      0.34      -        
+eggs                    12.56  17.96     1.19      0.39      0.46      0.24      -         0.09      0.05      -         -         1.58      0.05      -        
+red onion               11.42  4.34      0.01      0.01      -         -         -         0.87      0.67      0.16      -         0.11      -         -        
+sbs teriyaki sauce       3.42  6.94      -         -         -         -         -         1.65      1.5       0.03      0.14      0.05      0.16      -        
+soy sauce                1.83  0.97      0.01      -         -         0.01      -         0.09      0.01      0.01      -         0.15      0.26      -        
+- - - - - nutrition info - - - - - - - - - - - - - - - - - - - - - - - - E
+>-<
+NUTRITION DATA - ham green beans and cous cous w egg i:7    - - - - - - - <E
+PORTION / DAILY LOG DATA - - - - - - - - - - - - - - - - - - - - - - - - - - - - <S
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+ingredient                 g   energy    fat       saturates mono-unsa poly-unsa omega_3_o carbohydr sugars    fibre     starch    protein   salt      alcohol  
+light apricot cous cous    85  130.9     2.65      1.13      0.89      0.33      -         22.47     2.49      1.83      0.22      3.89      0.49      -        
+green beans               150  55.5      0.75      0.15      -         -         -         6.0       4.5       6.15      -         3.15      -         -        
+sbs teriyaki sauce         15  30.45     -         -         -         -         -         7.22      6.6       0.15      0.61      0.22      0.69      -        
+red onion                  50  19.0      0.05      0.03      -         -         -         3.8       2.95      0.7       -         0.5       0.01      -        
+soy sauce                   8  4.24      0.05      0.01      0.01      0.02      -         0.39      0.03      0.06      -         0.65      1.14      -        
+cooked ham trimmings li    75  82.5      3.22      1.13      -         -         -         0.3       0.15      -         -         12.83     1.5       -        
+eggs                       55  78.65     5.23      1.71      2.04      1.05      -         0.39      0.22      -         -         6.93      0.22      -        
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+                totals:   438  401.24    11.95     4.16      2.94      1.4       0.0       40.57     16.94     8.89      0.83      28.17     4.05      0.0      
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -

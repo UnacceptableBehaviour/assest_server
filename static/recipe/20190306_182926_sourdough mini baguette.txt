@@ -1,0 +1,29 @@
+------------------ for the sourdough 
+800g	strong flour 
+460g	water 
+10g		salt 
+320g	sourdough starter
+											Total (1440g) 
+
+------------------ for the sourdough mini baguette (6) 46g ea
+336g	sourdough
+											Total (276g) 
+
+
+
+IN		OUT	loss in bake	to
+382		314	18%			82%
+344		289	16%			84%
+
+SB 280g / flute
+
+------------------ for the sourdough baguette v2 (2)
+280g / flute
+56g / mini baguette roll
+
+------------------ for the sourdough baguette v1 (2)
+IN		OUT	loss in bake	to
+382		314	18%			82%
+344		289	16%			84%
+
+SB 280g / flute

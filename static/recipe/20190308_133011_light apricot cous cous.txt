@@ -1,0 +1,67 @@
+------------------ for the light apricot cous cous (4)
+220g	cous cous
+450g	chicken stock
+20g		mange tout
+20g		spring onions
+15g		dried apricots	
+20g		dried cranberries
+10g		red pepper
+15g		butter
+30g		spinach
+10g		red onion
+15g		flaked almonds
+													Total (760g) 
+
+
+------------------ for the nutrition information light apricot cous cous (per 100g)
+energy              	       154
+fat                 	      3.12
+saturates           	      1.33
+mono-unsaturates    	      1.05
+poly-unsaturates    	      0.39
+omega_3_oil         	       0.0
+carbohydrates       	     26.44
+sugars              	      2.93
+fibre               	      2.15
+starch              	      0.26
+protein             	      4.58
+salt                	      0.58
+alcohol             	       0.0
+                                                Total (100g)
+
+
+- - - - - nutrition info breakdown by ingredient per 100g - - - - - - - M3
+NUT_INFO_FOR: light apricot cous cous <
+ingredient                 %   energy    fat       saturates mono-unsa poly-unsa omega_3_o carbohydr sugars    fibre     starch    protein   salt      alcohol  
+chicken stock           54.55  3.82      0.27      0.18      -         -         -         0.33      0.06      0.01      -         0.05      0.5       -        
+cous cous               26.67  100.28    0.16      0.03      0.03      0.08      -         20.64     -         1.33      -         3.41      -         -        
+spinach                  3.64  0.84      0.01      -         -         0.01      -         0.13      0.01      0.08      -         0.11      0.01      -        
+dried cranberries        2.42  8.03      0.03      -         -         -         -         1.86      1.63      0.13      0.23      0.01      -         -        
+mange tout               2.42  0.9       -         -         -         -         -         0.1       0.07      0.05      -         0.09      -         -        
+spring onions            2.42  0.65      0.01      -         -         -         -         0.07      0.06      -         -         0.05      -         -        
+butter                   1.82  13.05     1.48      0.94      0.38      0.05      -         -         -         -         -         0.02      0.03      -        
+dried apricots           1.82  3.31      0.01      -         -         -         -         0.66      0.66      0.12      -         0.07      -         -        
+flaked almonds           1.82  10.47     0.9       0.07      0.56      0.22      -         0.39      0.07      0.22      0.01      0.39      -         -        
+red pepper               1.21  0.38      -         -         -         -         -         0.07      0.05      0.03      -         0.01      -         -        
+red onion                1.21  0.46      -         -         -         -         -         0.09      0.07      0.02      -         0.01      -         -        
+- - - - - nutrition info - - - - - - - - - - - - - - - - - - - - - - - - E
+>-<
+NUTRITION DATA - light apricot cous cous i:11    - - - - - - - <E
+PORTION / DAILY LOG DATA - - - - - - - - - - - - - - - - - - - - - - - - - - - - <S
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+ingredient                 g   energy    fat       saturates mono-unsa poly-unsa omega_3_o carbohydr sugars    fibre     starch    protein   salt      alcohol  
+cous cous                 220  827.2     1.32      0.22      0.22      0.66      -         170.28    -         11.0      -         28.16     -         -        
+chicken stock             450  31.5      2.21      1.49      -         -         -         2.7       0.5       0.05      -         0.41      4.1       -        
+mange tout                 20  7.4       0.04      -         -         -         -         0.84      0.56      0.4       -         0.72      -         -        
+spring onions              20  5.4       0.08      0.02      -         -         -         0.58      0.52      -         -         0.4       -         -        
+dried apricots             15  27.3      0.09      -         -         -         -         5.48      5.48      1.0       -         0.6       -         -        
+dried cranberries          20  66.4      0.22      0.04      -         -         -         15.34     13.48     1.06      1.86      0.1       -         -        
+red pepper                 10  3.1       0.03      -         -         0.01      -         0.6       0.42      0.21      -         0.1       -         -        
+butter                     15  107.55    12.17     7.71      3.15      0.45      -         0.02      0.02      -         -         0.14      0.27      -        
+spinach                    30  6.9       0.12      0.03      -         0.06      -         1.08      0.12      0.66      -         0.87      0.06      -        
+red onion                  10  3.8       0.01      0.01      -         -         -         0.76      0.59      0.14      -         0.1       -         -        
+flaked almonds             15  86.25     7.41      0.56      4.64      1.82      -         3.26      0.59      1.83      0.11      3.18      -         -        
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+                totals:   825  1172.8    23.7      10.08     8.01      3.0       0.0       200.94    22.28     16.35     1.97      34.78     4.43      0.0      
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
