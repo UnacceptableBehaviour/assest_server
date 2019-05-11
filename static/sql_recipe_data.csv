@@ -1,7 +1,7 @@
-rcp_id,image_file,recipe_title,text_file,n_En,n_Fa,n_Fs,n_Fm,n_Fp,n_Fo3,n_Ca,n_Su,n_Fb,n_St,n_Pr,n_Sa,n_Al,serving_size
-0,20181226_174632_crispy prawn and vegetable risotto.jpg,crispy prawn and vegetable risotto,20181226_174632_crispy prawn and vegetable risotto.txt,137,6.97,2.74,3.05,0.51,0.0,11.83,2.03,1.02,0.18,6.96,1.01,0.0,466
+ri_id,image_file,ri_name,text_file,n_En,n_Fa,n_Fs,n_Fm,n_Fp,n_Fo3,n_Ca,n_Su,n_Fb,n_St,n_Pr,n_Sa,n_Al,serving_size
+0,20181226_174632_crispy prawn and vegetable risotto.jpg,crispy prawn and vegetable risotto,20181226_174632_crispy prawn and vegetable risotto.txt,137,6.97,2.74,3.05,0.51,0.0,11.83,2.03,1.02,0.18,6.96,1.01,0.0,333
 1,20190101_165049_seared prawn w poached egg and vegetable broth.jpg,seared prawn w poached egg and vegetable broth,20190101_165049_seared prawn w poached egg and vegetable broth.txt,31,1.49,0.46,0.58,0.21,0,1.89,0.9,0.44,0.01,2.5,0.7,0,700
-2,20190101_171835_venison_wellington_turkey_croquette.jpg,venison_wellington_turkey_croquette,20190101_171835_venison_wellington_turkey_croquette.txt,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,20190101_171835_venison wellington and turkey croquette.jpg,venison wellington and turkey croquette,20190101_171835_venison wellington and turkey croquette.txt,0,0,0,0,0,0,0,0,0,0,0,0,0,102
 3,20190102_172954_vegetable and tangerine salad.jpg,vegetable and tangerine salad,20190102_172954_vegetable and tangerine salad.txt,38,0.21,0.01,0.0,0.07,0,9.23,4.05,1.73,0.01,1.06,0.14,0,205
 4,20190102_173235_tuna with vegetable and tangerine salad.jpg,tuna with vegetable and tangerine salad,20190102_173235_tuna with vegetable and tangerine salad.txt,79,0.8,0.12,0.04,0.13,0,5.42,2.34,1.01,0.01,12.4,0.45,0,205
 5,20190103_170558_chicken beetroot w broccoli and greens.jpg,chicken beetroot w broccoli and greens,20190103_170558_chicken beetroot w broccoli and greens.txt,104,4.84,1.28,1.67,0.93,0,4.79,3.2,1.5,0.02,10.14,0.26,0,192
@@ -11,24 +11,24 @@ rcp_id,image_file,recipe_title,text_file,n_En,n_Fa,n_Fs,n_Fm,n_Fp,n_Fo3,n_Ca,n_S
 9,20190106_163942_spinach tortilla.jpg,spinach tortilla,20190106_163942_spinach tortilla.txt,64,3.52,1.06,1.14,0.72,0,2.84,0.48,1.5,0.0,6.0,0.97,0,110
 10,20190106_173836_fillet steak and vegetables in gravy.jpg,fillet steak and vegetables in gravy,20190106_173836_fillet steak and vegetables in gravy.txt,40,1.55,0.63,0.52,0.09,0,2.9,1.14,0.63,0.73,3.57,0.51,0,575
 11,20190107_171222_sweet and sour cauliflower.jpg,sweet and sour cauliflower,20190107_171222_sweet and sour cauliflower.txt,66,3.56,0.58,0.03,0.04,0.0,7.9,4.11,1.78,0.38,1.34,0.92,0,228
-12,20190108_181824_cauliflower california.jpg,cauliflower california,20190108_181824_cauliflower california.txt,91,2.35,0.21,1.3,0.55,0.0,16.72,13.06,2.59,0.05,2.12,0.31,0.0,364
-13,20190108_181824_jalapeno burger w cauliflower california.jpg,jalapeno burger w cauliflower california,20190108_181824_jalapeno burger w cauliflower california.txt,0,0,0,0,0,0,0,0,0,0,0,0,0,180
+12,20190108_181824_cauliflower california.jpg,cauliflower california,20190108_181824_cauliflower california.txt,91,2.35,0.21,1.3,0.55,0.0,16.72,13.06,2.59,0.05,2.12,0.31,0.0,45
+13,20190108_181824_jalapeno burger w cauliflower california.jpg,jalapeno burger w cauliflower california,20190108_181824_jalapeno burger w cauliflower california.txt,0,0,0,0,0,0,0,0,0,0,0,0,0,45
 14,20190109_142520_emergency broth.jpg,emergency broth,20190109_142520_emergency broth.txt,13,0.71,0.48,0.0,0.01,0.0,1.21,0.41,0.09,0.0,0.25,1.3,0.0,315
 15,20190109_143622_crab cakes.jpg,crab cakes,20190109_143622_crab cakes.txt,100,3.81,1.01,1.2,0.73,0.18,1.18,0.46,0.01,0.0,14.15,1.1,0,85
 16,20190110_173128_winner winner chicken dinner.jpg,winner winner chicken dinner,20190110_173128_winner winner chicken dinner.txt,59,2.51,0.81,0.89,0.49,0.02,3.44,1.18,1.01,0.79,5.61,0.67,0.0,870
 17,20190111_182202_mangetout red pepper and grape salad.jpg,mangetout red pepper and grape salad,20190111_182202_mangetout red pepper and grape salad.txt,53,0.32,0.07,0.0,0.1,0.0,11.42,9.41,1.84,0.27,1.11,0.01,0.0,145
 18,20190111_182202_poached conger eel and prawn.jpg,poached conger eel and prawn,20190111_182202_poached conger eel and prawn.txt,60,2.98,0.68,1.62,0.23,5.2,1.39,0.38,0.12,0.0,6.41,0.61,0.0,582
 19,20190112_172153_chicken and aubergine stew.jpg,chicken and aubergine stew,20190112_172153_chicken and aubergine stew.txt,71,2.04,0.6,0.58,0.4,0.0,4.21,1.93,0.8,0.0,8.49,0.61,0.0,400
-20,20190128_140750_lemon_grass_chicken_lo_cal.jpg,lemon_grass_chicken_lo_cal,20190128_140750_lemon_grass_chicken_lo_cal.txt,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-21,20190129_195028_vegetable_bun_bo_huey.jpg,vegetable_bun_bo_huey,20190129_195028_vegetable_bun_bo_huey.txt,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-22,20190217_144626_ribeye steak w aubergine mushroom tartar kale and green beans.jpg,ribeye steak w aubergine mushroom tartar kale and green beans,20190217_144626_ribeye steak w aubergine mushroom tartar kale and green beans.txt,0,0,0,0,0,0,0,0,0,0,0,0,0,250
-23,20190218_161811_savoury pear grape and squash salad.jpg,savoury pear grape and squash salad,20190218_161811_savoury pear grape and squash salad.txt,38,0.15,0.02,0.03,0.05,0.0,9.42,3.8,1.86,0.29,0.87,0.05,0.0,
+20,20190128_140750_emergency broth lemon grass and chicken.jpg,emergency broth lemon grass and chicken,20190128_140750_emergency broth lemon grass and chicken.txt,60,1.96,0.67,0.51,0.33,0.0,2.86,0.87,0.3,0.0,7.34,0.89,0.0,500
+21,20190129_195028_vegetable bun bo huey.jpg,vegetable bun bo huey,20190129_195028_vegetable bun bo huey.txt,32,0.49,0.25,0.02,0.02,0.0,6.45,2.3,1.39,0.19,0.8,0.84,0.0,600
+22,20190217_144626_ribeye steak w aubergine mushroom tartar kale and green beans.jpg,ribeye steak w aubergine mushroom tartar kale and green beans,20190217_144626_ribeye steak w aubergine mushroom tartar kale and green beans.txt,0,0,0,0,0,0,0,0,0,0,0,0,0,166
+23,20190218_161811_savoury pear grape and squash salad.jpg,savoury pear grape and squash salad,20190218_161811_savoury pear grape and squash salad.txt,38,0.15,0.02,0.03,0.05,0.0,9.42,3.8,1.86,0.29,0.87,0.05,0.0,320
 24,20190218_162756_prawns w crab cakes mango salsa and salad.jpg,prawns w crab cakes mango salsa and salad,20190218_162756_prawns w crab cakes mango salsa and salad.txt,85,1.43,0.35,0.4,0.27,0.05,11.77,7.62,1.42,0.16,6.88,0.63,0.0,70
 25,20190223_150425_teriyaki green beans v1.jpg,teriyaki green beans v1,20190223_150425_teriyaki green beans v1.txt,57,0.44,0.09,0.0,0.0,0.0,9.22,7.84,3.69,0.45,2.02,0.76,0.0,366
 26,20190228_163410_monkfish and red pepper skewers.jpg,monkfish and red pepper skewers,20190228_163410_monkfish and red pepper skewers.txt,108,3.85,1.13,1.43,0.81,0.41,3.46,2.17,1.27,0.0,14.21,0.82,0.0,80
 27,20190301_145910_mushroom rissotto.jpg,mushroom rissotto,20190301_145910_mushroom rissotto.txt,132,7.47,4.15,1.1,0.19,0.0,12.13,1.16,0.9,0.24,2.21,0.82,1.11,300
 28,20190306_145901_seabass kale and potato dinner.jpg,seabass kale and potato dinner,20190306_145901_seabass kale and potato dinner.txt,55,1.6,0.44,0.5,0.43,0.4,2.74,0.32,0.47,0.0,7.28,0.45,0.0,500
-29,20190306_182926_sourdough mini baguette.jpg,sourdough mini baguette,20190306_182926_sourdough mini baguette.txt,0,0,0,0,0,0,0,0,0,0,0,0,0,46
+29,20190306_182926_sourdough mini baguette.jpg,sourdough mini baguette,20190306_182926_sourdough mini baguette.txt,0,0,0,0,0,0,0,0,0,0,0,0,0,720
 30,20190306_200606_beef and mushroom broth w marmalade and asauce.jpg,beef and mushroom broth w marmalade and asauce,20190306_200606_beef and mushroom broth w marmalade and asauce.txt,20,1.08,0.16,0.0,0.07,0.02,1.96,1.03,0.35,0.0,0.56,0.57,0.0,500
 31,20190307_180030_goats cheese and spinach omelette.jpg,goats cheese and spinach omelette,20190307_180030_goats cheese and spinach omelette.txt,182,13.33,5.28,2.03,1.11,0.0,4.14,2.34,1.2,0.0,11.33,0.51,0.0,60
 32,20190308_133011_ham green beans and cous cous w egg.jpg,ham green beans and cous cous w egg,20190308_133011_ham green beans and cous cous w egg.txt,108,3.23,1.12,0.79,0.38,0.0,10.96,4.58,2.4,0.23,7.61,1.09,0.0,190
