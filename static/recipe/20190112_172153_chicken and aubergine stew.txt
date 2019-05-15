@@ -19,3 +19,6 @@
 23g		aubergine
 165g	chicken brown meat								# 2 thigh bones & 2 leg bones = 72g meat 2leg 2 thigh = 330g
 													Total (400g)
+allergens: celery,
+tags: cbs, chicken, gluten_free
+

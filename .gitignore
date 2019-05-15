@@ -1,6 +1,10 @@
 # for osx
 .DS_Store
 
+# alias - reminder
+populate_asset_server.rb
+populate_db.py
+
 # ignore directory and contents
 /__pycache__
 /venv

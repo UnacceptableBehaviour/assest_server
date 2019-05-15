@@ -5,3 +5,6 @@
 160g	red pepper
 2g		black pepper
 													Total (320g)
+allergens: fish,
+tags: pork,
+

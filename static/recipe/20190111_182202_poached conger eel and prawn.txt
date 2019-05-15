@@ -7,3 +7,6 @@
 10g		chicken stock cube
 600g	water
 													Total (1165g)
+allergens: fish, s&c, celery, 
+tags: seafood, s&c, gluten_free
+

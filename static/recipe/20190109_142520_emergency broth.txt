@@ -10,3 +10,6 @@
 
 mug weighs 170g
 485g together!
+allergens: celery
+tags: cbs, chicken, gluten_free
+

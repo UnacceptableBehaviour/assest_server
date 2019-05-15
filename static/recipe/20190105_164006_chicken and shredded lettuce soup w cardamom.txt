@@ -14,3 +14,7 @@
 5g			spring onion												# garnish
 													Total (1145g)
 
+
+allergens: celery, gluten, sulphur dioxide
+tags: cbs, chicken, gluten_free
+

@@ -6,3 +6,7 @@
 165g	eggs
 50g		spanish goats cheese
 													Total (300g)
+
+allergens: eggs,
+tags: veggie, gluten_free
+

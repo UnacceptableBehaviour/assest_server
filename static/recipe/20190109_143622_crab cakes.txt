@@ -10,3 +10,7 @@
 3g			vegetable oil										# for frying - coat 3 times
 													Total (510g)
 
+
+allergens: eggs, s&c, celery,
+tags: seafood, s&c, gluten_free, msg
+

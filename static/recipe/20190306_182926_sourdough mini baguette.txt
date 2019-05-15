@@ -10,6 +10,8 @@
 336g	sourdough
 											Total (276g) 
 
+allergens: nuts, seeds (pumpkin, sunflower), gluten,
+tags: vegan, 
 
 
 IN		OUT	loss in bake	to
@@ -28,3 +30,4 @@ IN		OUT	loss in bake	to
 344		289	16%			84%
 
 SB 280g / flute
+

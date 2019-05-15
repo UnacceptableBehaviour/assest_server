@@ -19,3 +19,6 @@ can boil carrot in this too!!
 3g	coriander
 300g	simple beef and onion broth
 													Total (550g)
+allergens: celery
+tags: beef, gluten_free
+

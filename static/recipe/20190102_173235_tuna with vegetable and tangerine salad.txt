@@ -24,3 +24,7 @@
 164g	vegetable and tangerine salad
 													Total (256g)
 
+
+allergens: fish
+tags: gluten_free
+

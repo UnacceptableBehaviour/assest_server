@@ -12,3 +12,6 @@
 25g			water
 													Total (575g)
 
+allergens: celery, 
+tags: beef, gluten_free
+

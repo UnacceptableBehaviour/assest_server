@@ -4,3 +4,6 @@
 200g	chicken stock
 40g		boiled potatoes
 										Total (500g)
+allergens: fish
+tags: gluten_free
+

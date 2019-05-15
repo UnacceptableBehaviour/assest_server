@@ -9,3 +9,6 @@
 10g		mint					# shredded
 40g		red onion				# brunoise
 													Total (640g)
+allergens: 
+tags: vegan
+

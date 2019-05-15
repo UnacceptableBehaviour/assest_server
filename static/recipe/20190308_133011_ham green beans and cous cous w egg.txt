@@ -22,3 +22,6 @@
 55g		eggs												# just cooked, quartered
 													Total (370g)
 
+allergens: celery, gluten, 
+tags: pork,
+

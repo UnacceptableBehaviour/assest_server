@@ -23,3 +23,7 @@
 30g		beetroot and chicken broth							# 
 													Total (428g)
 
+
+allergens: celery
+tags: chicken, gluten_free
+

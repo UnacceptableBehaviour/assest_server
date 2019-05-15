@@ -12,3 +12,7 @@
 10g			chicken stock cube
 													Total (300g)
 
+
+allergens: molluscs, celery
+tags: chicken, seafood
+

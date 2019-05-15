@@ -19,3 +19,6 @@ wok -1190g
 yield - 1857g w/o wok 685g
 185g mum
 268g me
+allergens: celery,
+tags: vegan, cbs, chicken, gluten_free
+

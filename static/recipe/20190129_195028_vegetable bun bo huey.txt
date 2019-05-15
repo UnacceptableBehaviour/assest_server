@@ -11,3 +11,6 @@
 80g		celery
 200g	parsnip											# blend with stick blender - 
 													Total (1200g)
+allergens: celery,
+tags: cbs, chicken, msg, gluten_free
+

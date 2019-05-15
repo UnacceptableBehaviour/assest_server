@@ -10,3 +10,6 @@
 60g		apple											# grated, including skin
 0.5g	salt
 													Total (410g)
+allergens: 
+tags: vegan, gluten_free
+

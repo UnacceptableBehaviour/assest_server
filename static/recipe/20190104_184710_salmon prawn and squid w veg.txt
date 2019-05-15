@@ -22,3 +22,7 @@
 10g			chicken stock cube
 15g			spring onion
 													Total (415g)
+
+allergens: fish, molluscs, s&c, celery
+tags: chicken, seafood, s&c, gluten_free
+
