@@ -10,7 +10,7 @@
 336g	sourdough
 											Total (276g) 
 
-allergens: nuts, seeds (pumpkin, sunflower), gluten,
+allergens: nuts, seeds_pumpkin, seeds_sunflower, gluten,
 tags: vegan, 
 
 

@@ -8,3 +8,4 @@ populate_db.py
 # ignore directory and contents
 /__pycache__
 /venv
+/scratch

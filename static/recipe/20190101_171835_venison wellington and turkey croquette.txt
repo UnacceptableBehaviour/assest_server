@@ -5,6 +5,6 @@
 1000g	roast vegetables
 600g	summer fruit and port reduction
 													Total (410g)
-allergens: dairy, eggs, nuts, seeds (sesame, mustard), celery, gluten
+allergens: dairy, eggs, nuts, seeds_sesame, seeds_mustard, celery, gluten
 tags: venison, turkey, ns_pregnant
 

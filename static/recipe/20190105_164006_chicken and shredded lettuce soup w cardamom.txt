@@ -15,6 +15,6 @@
 													Total (1145g)
 
 
-allergens: celery, gluten, sulphur dioxide
+allergens: celery, gluten, sulphur_dioxide
 tags: cbs, chicken, gluten_free
 
