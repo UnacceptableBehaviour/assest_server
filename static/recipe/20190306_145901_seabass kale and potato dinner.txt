@@ -4,6 +4,9 @@
 200g	chicken stock
 40g		boiled potatoes
 										Total (500g)
+notes: 
+description: light meal w/ fish and potatoes
+stars:
 allergens: fish
 tags: gluten_free
-
+type: fish, lightcourse, main, low_cal, serve_warm

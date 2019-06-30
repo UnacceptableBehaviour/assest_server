@@ -12,6 +12,9 @@
 25g			water
 													Total (575g)
 
+notes: how to prepare & cook ingredients
+description: carb free steak and beans dinner w/ low fat beef gravy
+stars: 4
 allergens: celery, 
 tags: beef, gluten_free
 

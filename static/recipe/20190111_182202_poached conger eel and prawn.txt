@@ -7,6 +7,9 @@
 10g		chicken stock cube
 600g	water
 													Total (1165g)
+notes: how to prepare & cook ingredients
+description: lo fat, no carb seafood and vegetable broth
+stars: 4
 allergens: fish, s&c, celery, 
 tags: seafood, s&c, gluten_free
 

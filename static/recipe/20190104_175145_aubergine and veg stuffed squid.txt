@@ -13,6 +13,9 @@
 													Total (300g)
 
 
+notes: how to prepare & cook ingredients
+description: rather good bajed squid stuffed chicken and aubergine mix
+stars: 5
 allergens: molluscs, celery
 tags: chicken, seafood
 

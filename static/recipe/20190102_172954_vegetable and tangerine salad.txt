@@ -10,6 +10,9 @@
 60g		apple											# grated, including skin
 0.5g	salt
 													Total (410g)
+notes: how to prepare & cook ingredients
+description: savoury fruit and vegetable and herb salad
+stars: 4
 allergens: 
 tags: vegan, gluten_free
 

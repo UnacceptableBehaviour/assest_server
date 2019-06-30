@@ -9,6 +9,9 @@
 10g		mint					# shredded
 40g		red onion				# brunoise
 													Total (640g)
+notes: how to prepare & cook ingredients
+description: zero fat salad w/ butternut squash dressed w/ mint and lime
+stars: 4
 allergens: 
 tags: vegan
 

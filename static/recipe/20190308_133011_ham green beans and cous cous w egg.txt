@@ -22,6 +22,9 @@
 55g		eggs												# just cooked, quartered
 													Total (370g)
 
+notes: how to prepare & cook ingredients
+description:
+stars: light summer cous cous salad w/ soft boiled eggs & ham
 allergens: celery, gluten, 
 tags: pork,
 

@@ -6,7 +6,14 @@
 300g	onions
 2g	veg oil
 													Total (1350g)
-can boil carrot in this too!!
+notes:
+description:
+stars:
+allergens: dairy, eggs, peanuts, nuts, seeds_lupin, seeds_sesame, seeds_mustard, fish, molluscs, s&c, alcohol, celery, gluten, soya, sulphur_dioxide
+tags: vegan, veggie, cbs, chicken, pork, beef, seafood, s&c, gluten_free, ns_pregnant, 
+type: amuse, side, starter, fish, lightcourse, main, crepe, dessert, p4, cheese, comfort, low_cal, serve_cold, serve_rt, serve_warm, serve_hot
+
+
 
 ------------------ for the beef brisket and lettuce broth (1)
 70g	roast brisket
@@ -19,6 +26,15 @@ can boil carrot in this too!!
 3g	coriander
 300g	simple beef and onion broth
 													Total (550g)
+notes:
+description:
+stars:
 allergens: celery
 tags: beef, gluten_free
 
+notes:
+description: carnivorous dieters goto broth
+stars: 3
+allergens: dairy, eggs, peanuts, nuts, seeds_lupin, seeds_sesame, seeds_mustard, fish, molluscs, s&c, alcohol, celery, gluten, soya, sulphur_dioxide
+tags: vegan, veggie, cbs, chicken, pork, beef, seafood, s&c, gluten_free, ns_pregnant, 
+type: amuse, side, starter, fish, lightcourse, main, crepe, dessert, p4, cheese, comfort, low_cal, serve_cold, serve_rt, serve_warm, serve_hot

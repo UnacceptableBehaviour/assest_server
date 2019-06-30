@@ -5,6 +5,9 @@
 160g	red pepper
 2g		black pepper
 													Total (320g)
+notes:
+description:
+stars:
 allergens: fish,
 tags: pork,
-
+type: amuse, side, starter, fish, lightcourse, main, crepe, dessert, p4, cheese, comfort, low_cal, serve_cold, serve_rt, serve_warm, serve_hot

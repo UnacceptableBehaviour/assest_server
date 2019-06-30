@@ -19,6 +19,9 @@ wok -1190g
 yield - 1857g w/o wok 685g
 185g mum
 268g me
+notes: how to prepare & cook ingredients
+description: cauliflower in a westernised chinese style
+stars: 4
 allergens: celery,
 tags: vegan, cbs, chicken, gluten_free
 

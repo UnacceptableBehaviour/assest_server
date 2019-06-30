@@ -3,6 +3,10 @@
 40g		sbs teriyaki sauce						# beans doubled - this would have been fine at 20g!
 320g	green beans
 													Total (366g)
+notes:
+description:
+stars:
 allergens: gluten, soya
 tags: vegan
+type: amuse, side, starter, fish, lightcourse, main, crepe, dessert, p4, cheese, comfort, low_cal, serve_cold, serve_rt, serve_warm, serve_hot
 

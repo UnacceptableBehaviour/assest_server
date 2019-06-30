@@ -9,6 +9,9 @@
 10g		sriracha chilli sauce
 10g		shredless marmalade
 													Total (1500g)
+notes: how to prepare & cook ingredients
+description: lo cal no carb beef & mushroom broth
+stars: 4
 allergens: eggs, seeds_mustard,
 tags: beef, gluten_free, 
 

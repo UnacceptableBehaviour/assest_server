@@ -10,6 +10,9 @@
 336g	sourdough
 											Total (276g) 
 
+notes: how to prepare & cook ingredients
+description:
+stars:
 allergens: nuts, seeds_pumpkin, seeds_sunflower, gluten,
 tags: vegan, 
 

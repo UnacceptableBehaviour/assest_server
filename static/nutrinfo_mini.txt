@@ -1,0 +1,436 @@
+
+
+------------------ for the nutrition information lemongrass paste (per 100g)
+energy          			69
+fat             			1.9
+saturates       			0.2
+carbohydrates   			9.4
+sugars          			2.5
+fibre           			6.3
+protein         			0.4
+salt            			0.45
+											Total (100g)
+
+
+
+
+------------------ for the nutrition information white mushrooms (per 100g)
+energy          			16
+fat             			0.4
+saturates       			0.05
+carbohydrates   			0.4
+sugars          			0.4
+fibre           			1.1
+protein         			1.8
+salt            			0.4
+											Total (100g)
+
+
+
+
+------------------ for the giant mrs yorkshire pudding (100g)
+energy               		320
+fat                     	11.8     
+saturates 			     	0.9      
+carbohydrates           	40.5     
+sugars     			   		2.9      
+fibre                   	2.8      
+protein                 	11.5     
+salt                    	0.45  
+											Total (100g)
+
+------------------ for the nutrition information beetroot (ndb_no=11080)
+energy          			      43.0
+protein         			       1.6
+fat             			       0.2
+mono-unsaturates			       0.0
+poly-unsaturates			       0.1
+saturates       			       0.0
+omega_3_oil     			       0.0
+carbohydrates   			       9.6
+sugars          			       6.8
+fibre           			       2.8
+salt            			       0.2
+											Total (100g)
+
+
+------------------ for the nutrition information monkfish (ndb_no=15054)
+energy          			      76.0
+protein         			      14.5
+fat             			       1.5
+mono-unsaturates			       0.2
+poly-unsaturates			       0.6
+saturates       			       0.3
+omega_3_oil     			       0.6
+carbohydrates   			       0.0
+fibre           			       0.0
+salt            			       0.1
+											Total (100g)
+
+------------------ for the nutrition information duck breast meat only raw (ndb_no=05145)
+energy          			     123.0
+protein         			      19.9
+fat             			       4.3
+mono-unsaturates			       1.2
+poly-unsaturates			       0.6
+saturates       			       1.3
+omega_3_oil     			       0.6
+carbohydrates   			       0.0
+fibre           			       0.0
+salt            			       0.2
+											Total (100g)
+
+------------------ for the nutrition information duck meat only raw (ndb_no=05141)
+energy          			     135.0
+protein         			      18.3
+fat             			       6.0
+mono-unsaturates			       1.5
+poly-unsaturates			       0.8
+saturates       			       2.3
+omega_3_oil     			       0.1
+carbohydrates   			       0.9
+sugars          			       0.0
+fibre           			       0.0
+salt            			       0.2
+											Total (100g)
+
+roasted inc bone
+------------------ for the nutrition information duck leg quarter (ndb_no=05317)
+energy          			     217.0
+protein         			      26.8
+fat             			      11.4
+mono-unsaturates			       5.6
+poly-unsaturates			       1.9
+saturates       			       3.0
+omega_3_oil     			       1.9
+carbohydrates   			       0.0
+salt            			       0.3
+											Total (100g)
+
+roasted inc bone
+------------------ for the nutrition information duck thigh (ndb_no=05317)
+energy          			     217.0
+protein         			      26.8
+fat             			      11.4
+mono-unsaturates			       5.6
+poly-unsaturates			       1.9
+saturates       			       3.0
+omega_3_oil     			       1.9
+carbohydrates   			       0.0
+salt            			       0.3
+											Total (100g)
+
+------------------ for the nutrition information mild salt and pepper coating (per 100g)
+energy              	       286
+fat                 	      3.16
+saturates           	      0.48
+mono-unsaturates    	      0.77
+poly-unsaturates    	      1.26
+omega_3_oil         	       0.0
+carbohydrates       	      60.0
+sugars              	      1.62
+fibre               	      6.87
+starch              	     44.59
+protein             	      8.01
+salt                	      7.22
+alcohol             	       0.0
+                                                Total (100g)
+
+
+sbs salted generic
+------------------ for the nutrition information tortilla chips (per 100g)
+energy          			491
+fat             			23.0
+saturates       			1.9
+mono-unsaturates			17.9
+poly-unsaturates			2.1
+carbohydrates   			62.7
+sugars          			0.4
+starch          			62.2
+fibre           			5.6
+protein         			5.6
+salt            			0.8
+											Total (100g)
+
+
+------------------ for the nutrition information vegetable samosa indian takeaway mrs (per 100g)
+energy          			286
+fat             			16.8
+saturates       			2
+carbohydrates   			27.2
+sugars          			2.6
+fibre           			4.1
+protein         			4.4
+salt            			0.37
+											Total (100g)
+
+------------------ for the nutrition information garlic & herb flatbread mrs (per 100g)
+energy          			279
+fat             			8.2
+saturates       			3.8
+carbohydrates   			41.9
+sugars          			2.9
+fibre           			1.6
+protein         			8.6
+salt            			0.9
+											Total (100g)
+
+245g each - 
+------------------ for the nutrition information mrs garlic & herb flatbread (per 100g)
+energy          			279
+fat             			8.2
+saturates       			3.8
+carbohydrates   			41.9
+sugars          			2.9
+fibre           			1.6
+protein         			8.6
+salt            			0.9
+											Total (100g)
+
+
+
+------------------ for the nutrition information lemon grass (ndb_no=11972)
+energy          			      99.0
+protein         			       1.8
+fat             			       0.5
+mono-unsaturates			       0.1
+poly-unsaturates			       0.2
+saturates       			       0.1
+omega_3_oil     			       0.0
+carbohydrates   			      25.3
+salt            			       0.0
+											Total (100g)
+
+------------------ for the nutrition information parsnip (ndb_no=11298)
+energy          			      75.0
+protein         			       1.2
+fat             			       0.3
+mono-unsaturates			       0.1
+poly-unsaturates			       0.0
+saturates       			       0.1
+omega_3_oil     			       0.0
+carbohydrates   			      18.0
+sugars          			       4.8
+fibre           			       4.9
+salt            			       0.0
+											Total (100g)
+
+------------------ for the nutrition information celery (ndb_no=11143)
+energy          			      16.0
+protein         			       0.7
+fat             			       0.2
+mono-unsaturates			       0.0
+poly-unsaturates			       0.1
+saturates       			       0.0
+omega_3_oil     			       0.0
+carbohydrates   			       3.0
+sugars          			       1.8
+fibre           			       1.6
+starch          			       0.0
+salt            			       0.2
+											Total (100g)
+
+------------------ for the nutrition information anchovies (ndb_no=15002)
+energy          			     210.0
+protein         			      28.9
+fat             			       9.7
+mono-unsaturates			       3.8
+poly-unsaturates			       2.6
+saturates       			       2.2
+omega_3_oil     			       1.7
+carbohydrates   			       0.0
+sugars          			       0.0
+fibre           			       0.0
+salt            			       9.5
+											Total (100g)
+
+------------------ for the nutrition information anchovy (ndb_no=15002)
+energy          			     210.0
+protein         			      28.9
+fat             			       9.7
+mono-unsaturates			       3.8
+poly-unsaturates			       2.6
+saturates       			       2.2
+omega_3_oil     			       1.7
+carbohydrates   			       0.0
+sugars          			       0.0
+fibre           			       0.0
+salt            			       9.5
+											Total (100g)
+
+
+------------------ for the nutrition information pear (ndb_no=09252)
+energy          			      57.0
+protein         			       0.4
+fat             			       0.1
+mono-unsaturates			       0.1
+poly-unsaturates			       0.1
+saturates       			       0.0
+omega_3_oil     			       0.0
+carbohydrates   			      15.2
+sugars          			       9.8
+fibre           			       3.1
+salt            			       0.0
+											Total (100g)
+
+------------------ for the nutrition information small pears (ndb_no=09252)
+energy          			      57.0
+protein         			       0.4
+fat             			       0.1
+mono-unsaturates			       0.1
+poly-unsaturates			       0.1
+saturates       			       0.0
+omega_3_oil     			       0.0
+carbohydrates   			      15.2
+sugars          			       9.8
+fibre           			       3.1
+salt            			       0.0
+											Total (100g)
+
+------------------ for the nutrition information mackerel (ndb_no=15046)
+energy          			     205.0
+protein         			      18.6
+fat             			      13.9
+mono-unsaturates			       5.5
+poly-unsaturates			       3.4
+saturates       			       3.3
+omega_3_oil     			      16.1
+carbohydrates   			       0.0
+sugars          			       0.0
+fibre           			       0.0
+salt            			       0.2
+											Total (100g)
+
+------------------ for the nutrition information lime juice (ndb_no=09160)
+energy          			      25.0
+protein         			       0.4
+fat             			       0.1
+mono-unsaturates			       0.0
+poly-unsaturates			       0.0
+saturates       			       0.0
+omega_3_oil     			       0.0
+carbohydrates   			       8.4
+sugars          			       1.7
+fibre           			       0.4
+starch          			       0.0
+salt            			       0.0
+											Total (100g)
+
+------------------ for the nutrition information apple juice (ndb_no=09016)
+energy          			      46.0
+protein         			       0.1
+fat             			       0.1
+mono-unsaturates			       0.0
+poly-unsaturates			       0.0
+saturates       			       0.0
+omega_3_oil     			       0.0
+carbohydrates   			      11.3
+sugars          			       9.6
+fibre           			       0.2
+salt            			       0.0
+											Total (100g)
+
+------------------ for the nutrition information pear juice (ndb_no=09254)
+energy          			      50.0
+protein         			       0.3
+fat             			       0.1
+mono-unsaturates			       0.0
+poly-unsaturates			       0.0
+saturates       			       0.0
+omega_3_oil     			       0.0
+carbohydrates   			      12.9
+sugars          			       9.7
+fibre           			       1.6
+salt            			       0.0
+											Total (100g)
+
+------------------ for the nutrition information sunchokes (ndb_no=11226)
+energy          			      73.0
+protein         			       2.0
+fat             			       0.0
+mono-unsaturates			       0.0
+poly-unsaturates			       0.0
+saturates       			       0.0
+omega_3_oil     			       0.0
+carbohydrates   			      17.4
+sugars          			       9.6
+fibre           			       1.6
+salt            			       0.0
+											Total (100g)
+
+------------------ for the nutrition information shitake mushrooms (ndb_no=11238)
+energy          			      34.0
+protein         			       2.2
+fat             			       0.5
+omega_3_oil     			      13.0
+carbohydrates   			       6.8
+sugars          			       2.4
+fibre           			       2.5
+salt            			       0.0
+											Total (100g)
+
+
+------------------ for the nutrition information sweetheart cabbage noodle broth (per 100g)
+energy              	        36
+fat                 	      1.47
+saturates           	      0.68
+mono-unsaturates    	      0.26
+poly-unsaturates    	       0.1
+omega_3_oil         	      0.01
+carbohydrates       	      2.94
+sugars              	      1.27
+fibre               	      0.72
+starch              	      0.48
+protein             	      2.59
+salt                	      1.05
+alcohol             	       0.0
+                                                Total (100g)
+
+------------------ for the nutrition information harissa ribs v1 (per 100g)
+energy              	       417
+fat                 	     35.42
+saturates           	     17.98
+mono-unsaturates    	      0.04
+poly-unsaturates    	      0.14
+omega_3_oil         	       0.0
+carbohydrates       	      0.72
+sugars              	      0.26
+fibre               	      0.49
+starch              	      0.38
+protein             	     23.52
+salt                	      1.16
+alcohol             	       0.0
+                                                Total (100g)
+
+------------------ for the nutrition information harissa ribs & mixed roast veg (per 100g)
+energy              	       268
+fat                 	     20.18
+saturates           	      9.21
+mono-unsaturates    	      0.05
+poly-unsaturates    	      0.12
+omega_3_oil         	       0.0
+carbohydrates       	      9.62
+sugars              	       3.0
+fibre               	      2.57
+starch              	      0.47
+protein             	     12.52
+salt                	      0.88
+alcohol             	       0.0
+                                                Total (100g)
+
+142cal each
+------------------ for the nutrition information mini chocolate mousse (per 100g)
+energy              	       202
+fat                 	      5.85
+saturates           	      3.44
+mono-unsaturates    	      0.54
+poly-unsaturates    	      0.24
+omega_3_oil         	       0.0
+carbohydrates       	     33.09
+sugars              	      26.2
+fibre               	      0.61
+starch              	      6.29
+protein             	      4.11
+salt                	      0.08
+alcohol             	       0.0
+                                                Total (100g)

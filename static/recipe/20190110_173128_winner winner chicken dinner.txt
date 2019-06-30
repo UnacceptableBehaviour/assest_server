@@ -15,7 +15,9 @@ yields: 325g veg 365g gravy 180g chicken
 2g			rosemary
 2g			thyme
 													Total (870g)
-and maybe carrot too!
+notes: and maybe carrot too!
+description: kinda sunday dinner vibe with less fat!
+stars: 4
 allergens: celery
 tags: chicken, gluten_free, msg
 

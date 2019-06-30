@@ -11,8 +11,9 @@
 10g		red onion
 15g		flaked almonds
 													Total (760g) 
-
-
+notes: how to prepare & cook ingredients
+description: simple and quick toasted almond cous cous (great on top of honey dew melon)
+stars: 4
 allergens: nuts, celery, gluten
 tags: vegan
 

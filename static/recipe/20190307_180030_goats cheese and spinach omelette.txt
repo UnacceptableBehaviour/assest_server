@@ -7,6 +7,9 @@
 50g		spanish goats cheese
 													Total (300g)
 
+notes: how to prepare & cook ingredients
+description: melted and crisped goats cheese topped spinach omelette
+stars: 5
 allergens: eggs,
 tags: veggie, gluten_free
 

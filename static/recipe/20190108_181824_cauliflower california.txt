@@ -30,6 +30,9 @@ Prep everything at the start of service into separate boxes,
 Mix together at the last minute, keeping half of the almonds back to dress it.
 Season with salt after mixing & plating.
 
+notes: how to prepare & cook ingredients
+description: fruit and nut cauliflower couscous topped with a champagne and vanilla dressing, out of this world.
+stars:
 allergens: nuts, celery, 
 tags: vegan, gluten_free, msg
 

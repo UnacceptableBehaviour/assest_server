@@ -8,8 +8,10 @@
 274g	water											# boilng
 													Total (315g)
 
-mug weighs 170g
+notes: mug weighs 170g
 485g together!
+description: tomato and coriander EB
+stars: 3
 allergens: celery
 tags: cbs, chicken, gluten_free
 

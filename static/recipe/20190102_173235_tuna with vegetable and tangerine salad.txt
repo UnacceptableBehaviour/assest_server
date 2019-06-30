@@ -25,6 +25,9 @@
 													Total (256g)
 
 
+notes: how to prepare & cook ingredients
+description: really good, incredibly healthy light lunch of lightly seared tuna served w/ savoury fruit salad
+stars: 5
 allergens: fish
 tags: gluten_free
 

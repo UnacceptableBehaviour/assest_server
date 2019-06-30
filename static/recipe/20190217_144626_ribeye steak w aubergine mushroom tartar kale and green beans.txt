@@ -23,9 +23,7 @@ Mix all together, uW / 2m. Will come out thick and ready to eat
 150g	fast beef gravy
 													Total (530g)
 
-allergens: celery,
-tags: beef, gluten_free,
-
+notes: 
 Aubergine and mushroom tartar is inspired: 
 Adds a great savoury flavour to the umami qualities of mushroom.
 5mm dice, mushroom, aubergine & SO
@@ -35,3 +33,8 @@ After each steak is cooked return the tartar mix to the pan and
 deglaze w/ 100ml of water, 
 toss until all the is almost gone and the veg is nicely coated.
 The result is a really steaky tasting mix - adds real flavour to a fatless dish!
+description: inspired no carb steak and beans w/ vegetable tartar
+stars: 5
+allergens: celery,
+tags: beef, gluten_free,
+

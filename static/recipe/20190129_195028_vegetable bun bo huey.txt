@@ -11,6 +11,9 @@
 80g		celery
 200g	parsnip											# blend with stick blender - 
 													Total (1200g)
+notes: how to prepare & cook ingredients
+description: warm asian vegetable broth
+stars:
 allergens: celery,
 tags: cbs, chicken, msg, gluten_free
 

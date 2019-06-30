@@ -14,6 +14,9 @@ Coat pan with oil, and drain to leave super thin coat of oil.
 Pour in the mix, cook like normal omelette.
 Toss, finish other side and turn out.
 
+notes: how to prepare & cook ingredients
+description: classic spanish dish ‘tortilla de espinacas’ spinach omelette
+stars: 4
 allergens: eggs, celery
 tags: veggie, gluten_free, msg, ns_pregnant
 

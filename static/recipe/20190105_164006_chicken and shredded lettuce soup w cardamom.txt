@@ -15,6 +15,11 @@
 													Total (1145g)
 
 
+notes: 
+Needs work to bring out the cardamom more. 
+Maybe add a poached egg? give the broth a nicer texture and more depth! :)
+description: chicken in a shredded lettuce cardamom broth, light lunch
+stars: 3
 allergens: celery, gluten, sulphur_dioxide
 tags: cbs, chicken, gluten_free
 

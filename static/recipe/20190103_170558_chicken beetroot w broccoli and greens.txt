@@ -24,6 +24,12 @@
 													Total (428g)
 
 
+notes: 
+It’s OK just a bit lack lustre,
+Maybe add some spices to the beetroot broth:
+Allspice, cumin, paprika, ground coriander seeds.
+description: egyptian beetroot wanabe with chicken and brocoli
+stars: 3
 allergens: celery
 tags: chicken, gluten_free
 

@@ -1,5 +1,4 @@
 
-
 788g inc plastic jug  ~85g ea
 ------------------ for the crab cakes (6)
 400g	(3)	crab meat											# 3 dressed crabs
@@ -9,8 +8,12 @@
 6g			aromat
 3g			vegetable oil										# for frying - coat 3 times
 													Total (510g)
-
-
+notes: 
+Mix ingredients, then using a table spoon pop mix into a hot pan.
+Flatten a little and let it sizzle until the bottom is golden brown.
+Turn and repeat.
+description: luxury crab cake - pure and simple (not cheap)
+stars: 4
 allergens: eggs, s&c, celery,
 tags: seafood, s&c, gluten_free, msg
 

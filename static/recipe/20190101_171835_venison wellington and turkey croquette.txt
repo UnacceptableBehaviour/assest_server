@@ -5,6 +5,9 @@
 1000g	roast vegetables
 600g	summer fruit and port reduction
 													Total (410g)
+notes: add links to recipes: croquets, wellington, 
+description: new years dinner of venison wellington w/ christmas croquettes and luxury roast veggies
+stars: 5
 allergens: dairy, eggs, nuts, seeds_sesame, seeds_mustard, celery, gluten
 tags: venison, turkey, ns_pregnant
 
