@@ -23,8 +23,8 @@
 													Total (370g)
 
 notes: how to prepare & cook ingredients
-description:
-stars: light summer cous cous salad w/ soft boiled eggs & ham
+description: light summer cous cous salad w/ soft boiled eggs & ham
+stars: 4
 allergens: celery, gluten, 
 tags: pork,
 
