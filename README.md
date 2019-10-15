@@ -60,6 +60,79 @@ Hit CTRL-C to stop the server
 
 
 
+## Setting up on a Raspberry Pi (local full time server)
+### Install nodes.js
+Find arm version: uname -m
+```
+$ uname -a				# Linux raspberrypi 4.14.98-v7+ #1200 SMP Tue Feb 12 20:27:48 GMT 2019 armv7l GNU/Linux
+$ uname -m 				# armv7l
+```
+
+### Go to download page (https://nodejs.org/en/download/) 
+Get ARM7 version:   
+wget https://nodejs.org/dist/v10.16.3/node-v10.16.3-linux-armv7l.tar.xz  
+
+Extract
+```
+$ tar -xf ./node-v10.16.3-linux-armv7l.tar.xz
+```
+
+Copy to usr/local
+```
+$ cd node-v10.16.3-linux-armv7l/
+pi@raspberrypi:~/Downloads/node-v10.16.3-linux-armv7l 
+$ sudo cp -R * /usr/local/
+```
+
+Check
+```
+$ node -v
+v10.16.3
+$ npm -v
+6.9.0
+```
+
+Clean up, re-Check
+```
+$ rm node-v10.16.3-linux-armv7l.tar.xz
+$ rm -r node-v10.16.3-linux-armv7l
+$ npm -v
+6.9.0
+$ node -v
+v10.16.3
+```
+
+Move to web dir, and clone asset server
+```
+$ cd web
+~/web $ git clone https://github.com/UnacceptableBehaviour/assest_server
+Cloning into 'assest_server'...
+remote: Enumerating objects: 248, done.
+remote: Counting objects: 100% (248/248), done.
+remote: Compressing objects: 100% (156/156), done.
+remote: Total 248 (delta 121), reused 215 (delta 90), pack-reused 0
+Receiving objects: 100% (248/248), 126.90 MiB | 4.36 MiB/s, done.
+Resolving deltas: 100% (121/121), done.
+```
+
+Instal http-server using npm
+```
+$ sudo npm install http-server -g
+/usr/local/bin/http-server -> /usr/local/lib/node_modules/http-server/bin/http-server
+/usr/local/bin/hs -> /usr/local/lib/node_modules/http-server/bin/http-server
++ http-server@0.11.1
+added 26 packages from 28 contributors in 8.231s
+```
+
+Fire up asset server
+```
+$ http-server -p 8000 --cors
+```
+
+
+
+
+
 # REFERENCES
 About CORS protocol and flow control
 For production fix, CORS headers has to be added to the backend server to allow cross origin access.
