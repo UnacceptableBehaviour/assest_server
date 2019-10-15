@@ -64,13 +64,19 @@ Hit CTRL-C to stop the server
 ### Install nodes.js
 Find arm version: uname -m
 ```
-$ uname -a				# Linux raspberrypi 4.14.98-v7+ #1200 SMP Tue Feb 12 20:27:48 GMT 2019 armv7l GNU/Linux
-$ uname -m 				# armv7l
+$ uname -a
+Linux raspberrypi 4.14.98-v7+ #1200 SMP Tue Feb 12 20:27:48 GMT 2019 armv7l GNU/Linux
+
+$ uname -m 				
+armv7l
 ```
 
-### Go to download page (https://nodejs.org/en/download/) 
+### Go to download page
+####(https://nodejs.org/en/download/) 
 Get ARM7 version:   
+```
 wget https://nodejs.org/dist/v10.16.3/node-v10.16.3-linux-armv7l.tar.xz  
+```
 
 Extract
 ```
