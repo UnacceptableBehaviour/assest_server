@@ -22,6 +22,18 @@ http://192.168.0.14:8000
 Hit CTRL-C to stop the server
 ```
 
+## Creating root authority & self signed certificates
+[Add link to gist once created]
+
+## Server assets over SSL from asset.server:8080
+```
+sudo nano /etc/hosts
+192.168.1.13    asset.server
+
+> cd /a_syllabus/lang/python/repos/assest_server
+> http-server  --cors -S -C ./scratch/asCerts/server.crt -K ./scratch/asCerts/server.key
+```
+
 ## Notes
 **Solution chosen to enable exersizes:**
 Adding CORS headers to web server
@@ -67,15 +79,15 @@ Find arm version: uname -m
 $ uname -a
 Linux raspberrypi 4.14.98-v7+ #1200 SMP Tue Feb 12 20:27:48 GMT 2019 armv7l GNU/Linux
 
-$ uname -m 				
+$ uname -m
 armv7l
 ```
 
 ### Go to download page
-#### (https://nodejs.org/en/download/) 
-Get ARM7 version:   
+#### (https://nodejs.org/en/download/)
+Get ARM7 version:
 ```
-wget https://nodejs.org/dist/v10.16.3/node-v10.16.3-linux-armv7l.tar.xz  
+wget https://nodejs.org/dist/v10.16.3/node-v10.16.3-linux-armv7l.tar.xz
 ```
 
 Extract
@@ -86,7 +98,7 @@ $ tar -xf ./node-v10.16.3-linux-armv7l.tar.xz
 Copy to usr/local
 ```
 $ cd node-v10.16.3-linux-armv7l/
-pi@raspberrypi:~/Downloads/node-v10.16.3-linux-armv7l 
+pi@raspberrypi:~/Downloads/node-v10.16.3-linux-armv7l
 $ sudo cp -R * /usr/local/
 ```
 
