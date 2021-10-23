@@ -9,3 +9,4 @@ populate_db.py
 /__pycache__
 /venv
 /scratch
+/static/recipe
